@@ -1,0 +1,58 @@
+<RCC>
+  <qresource prefix="table">
+    <file>tables/filter.png</file>
+    <file>tables/dialog_ok_apply_icon.png</file>
+    <file>tables/add_db.png</file>
+    <file>tables/delite_db.png</file>
+    <file>tables/edit_db.png</file>
+    <file>tables/exit.png</file>
+    <file>tables/refresh.png</file>
+  </qresource>
+  <qresource prefix="new_actions">
+    <file>icons for buttens/Custom-Icon-Design-Flatastic-8-Hide-left.512.png</file>
+    <file>actions/connections_add.png</file>
+    <file>actions/remove.png</file>
+    <file>actions/update_new.png</file>
+  </qresource>
+  <qresource prefix="arrow">
+    <file>dop/Navigate-down-icon.png</file>
+    <file>dop/Navigate-up-icon.png</file>
+    <file>dop/arrow.png</file>
+  </qresource>
+  <qresource prefix="error">
+    <file>dop/error.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>logo/Digit-Mf Point-1-2.png</file>
+    <file>logo/35th Parallel-logos1.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>dop/word-doc-icon.png</file>
+    <file>dop/load-save-icon.png</file>
+    <file>dop/save-as-icon.png</file>
+    <file>dop/icons8-back-64.png</file>
+    <file>dop/icons8-back-64.png</file>
+    <file>dop/icons8-microsoft-excel-2019-50.png</file>
+    <file>options.png</file>
+  </qresource>
+  <qresource prefix="main_menu_ic">
+    <file>icons for buttens/plan_btn.png</file>
+    <file>icons for buttens/Elegantthemes-Beautiful-Flat-Profile.512.png</file>
+    <file>icons for buttens/Aha-Soft-Large-Seo-SEO.512.png</file>
+    <file>icons for buttens/database-management.png</file>
+    <file>icons for buttens/loading.png</file>
+    <file>icons for buttens/work-place.png</file>
+    <file>icons for buttens/control.png</file>
+  </qresource>
+  <qresource prefix="other_btn_ic">
+    <file>icons for buttens/next.png</file>
+    <file>icons for buttens/excel_template.png</file>
+    <file>options.png</file>
+    <file>icons for buttens/Complete.png</file>
+    <file>icons for buttens/add_smth.png</file>
+    <file>icons for buttens/clean_enth.png</file>
+    <file>icons for buttens/upload.png</file>
+    <file>icons for buttens/cansel_btn.png</file>
+    <file>icons for buttens/edit_btn.png</file>
+  </qresource>
+</RCC>
